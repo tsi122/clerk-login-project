@@ -1,8 +1,10 @@
 "use client";
-import SignUpForm from "@/components/SignUpForm";
+import SignUpForm from "@/components/SignUpForm"; 
 import { motion } from "framer-motion";
 
+
 export default function SignUpPage() {
+
   return (
     <motion.main
       initial={{ opacity: 0, y: 30 }}
