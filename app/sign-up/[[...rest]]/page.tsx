@@ -1,7 +1,8 @@
 "use client";
 
 import { motion } from "framer-motion";
-import SignUpForm from "@/components/SignUpForm";
+import SignUpForm from "@/components/ui/SignUpForm";
+
 
 export default function SignUpPage() {
   return (
